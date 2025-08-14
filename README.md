@@ -6,3 +6,6 @@ a algun lado como por ejemplo Descargas, posteriormente cambiar el nombre de la 
 De esta forma los archivos, van a poder encontrar correctamente los paquetes y se podra ejecutar el proyecto.
 
 PARA EJECUTAR EL PROYECTO, SE DEBE EJECUTAR EL ARCHIVO ConsoleApp.java
+
+
+NOTA: En la carpeta llamada reports, se van a generar automaticamente los informes en formato txt, json y xml para tenerlo en cuenta
