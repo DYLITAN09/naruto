@@ -4,3 +4,5 @@ a algun lado como por ejemplo Descargas, posteriormente cambiar el nombre de la 
 <img width="266" height="341" alt="image" src="https://github.com/user-attachments/assets/bb2a972e-93e1-4a6f-b116-43a1a43f831a" />
 
 De esta forma los archivos, van a poder encontrar correctamente los paquetes y se podra ejecutar el proyecto.
+
+PARA EJECUTAR EL PROYECTO, SE DEBE EJECUTAR EL ARCHIVO ConsoleApp.java
